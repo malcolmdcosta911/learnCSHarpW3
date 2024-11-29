@@ -1,0 +1,14 @@
+C:\projects\learnCSharpW3\bin\Debug\net8.0\learnCSharpW3.exe
+C:\projects\learnCSharpW3\bin\Debug\net8.0\learnCSharpW3.deps.json
+C:\projects\learnCSharpW3\bin\Debug\net8.0\learnCSharpW3.runtimeconfig.json
+C:\projects\learnCSharpW3\bin\Debug\net8.0\learnCSharpW3.dll
+C:\projects\learnCSharpW3\bin\Debug\net8.0\learnCSharpW3.pdb
+C:\projects\learnCSharpW3\obj\Debug\net8.0\learnCSharpW3.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\learnCSharpW3\obj\Debug\net8.0\learnCSharpW3.AssemblyInfoInputs.cache
+C:\projects\learnCSharpW3\obj\Debug\net8.0\learnCSharpW3.AssemblyInfo.cs
+C:\projects\learnCSharpW3\obj\Debug\net8.0\learnCSharpW3.csproj.CoreCompileInputs.cache
+C:\projects\learnCSharpW3\obj\Debug\net8.0\learnCSharpW3.dll
+C:\projects\learnCSharpW3\obj\Debug\net8.0\refint\learnCSharpW3.dll
+C:\projects\learnCSharpW3\obj\Debug\net8.0\learnCSharpW3.pdb
+C:\projects\learnCSharpW3\obj\Debug\net8.0\learnCSharpW3.genruntimeconfig.cache
+C:\projects\learnCSharpW3\obj\Debug\net8.0\ref\learnCSharpW3.dll

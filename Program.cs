@@ -92,7 +92,11 @@ namespace ProgramTrial
 
             //Errors
             // Program.ArrayErrorFunction();
-            Program.ThrowErrorFunc();
+            // Program.ThrowErrorFunc();
+
+            //TryFiles.cs
+            FileManagment fileManager = new FileManagment();
+            fileManager.WriteAndReadFile();
 
         }
 

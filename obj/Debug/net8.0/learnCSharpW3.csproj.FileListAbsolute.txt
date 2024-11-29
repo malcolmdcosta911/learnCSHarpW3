@@ -12,3 +12,4 @@ C:\projects\learnCSharpW3\obj\Debug\net8.0\refint\learnCSharpW3.dll
 C:\projects\learnCSharpW3\obj\Debug\net8.0\learnCSharpW3.pdb
 C:\projects\learnCSharpW3\obj\Debug\net8.0\learnCSharpW3.genruntimeconfig.cache
 C:\projects\learnCSharpW3\obj\Debug\net8.0\ref\learnCSharpW3.dll
+C:\projects\learnCSharpW3\obj\Debug\net8.0\learnCSharpW3.sourcelink.json
